@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyMVVM</string>
+    <string name="refresh">Обновить</string>
+    <string name="level_1">1</string>
+</resources>
